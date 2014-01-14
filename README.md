@@ -1,4 +1,4 @@
-# GitHub ember ASCII Art
+# ASCII Art script for all love with Ember.js
 
 :innocent: Ember :innocent:
 
