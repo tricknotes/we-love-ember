@@ -11,3 +11,11 @@
   ##       ##     ## ##     ## ##       ##    ##  
   ######## ##     ## ########  ######## ##     ## 
 ```
+
+## Usage
+
+``` shell
+$ bundle install
+$ mkdir dist
+$ bundle exec ruby run.rb
+```
